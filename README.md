@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mukesh Dewangan</h1>
-<h3 align="center">Machine Learning & Robotics Developer | Passionate about AI for Real-World Applications</h3>
+<h3 align="center">Machine Learning(Computer Vision) & Robotics Developer | Passionate about AI for Real-World Applications</h3>
 
 ---
 
